@@ -1,0 +1,86 @@
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+body{
+    background: url('387b7682-8d91-4d4b-b805-3f48cb61f9a9.jpeg') no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+
+.regestration-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+
+
+
+}
+
+.regestration-form h1 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px, 0;
+}
+
+.regestration-form p {
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+
+.regestration-form input {
+    
+    font-size: 6px;
+    padding: 15px 10px;
+    width: 300px;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+
+.btn-1 {
+    
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 40%;
+    border: 0;
+    border-radius: 5px;
+}
+
+
+
+
+.regestration-form button:hover {
+    color: red
+}
+
+.container {
+    margin-top: 20px;
+}
+
+
+.LOGO-1{
+    color: red;
+}
+
+.LOGO-2 {
+    color: greenyellow;
+}
+
+
+
+
+
+
+
